@@ -1,0 +1,22 @@
+/* body {
+    height: 900px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(16, 195, 135);
+}
+
+form {
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+}
+
+.sub {
+    width: 100px;
+    height: 40px;
+    border: 2px solid black;
+    background-color: rgb(181, 238, 69);
+    margin-top: 30px;
+    font-size: 17px;
+} */
