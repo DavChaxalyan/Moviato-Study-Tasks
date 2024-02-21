@@ -1,7 +1,7 @@
 // let list = document.querySelectorAll('li');
 
 // list.forEach(elm => {
-//     elm.addEventListener('mouseenter', function(){
+//     elm.addEventListener('mouseover', function(){
 //         elm.style.color = randomColor()
 //     });
 //     elm.addEventListener('mouseout', function(){
