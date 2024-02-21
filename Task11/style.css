@@ -1,0 +1,28 @@
+/* body {
+    height: 900px;
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form > label {
+    margin-top: 50px;
+}
+
+.sub {
+    margin-top: 50px;
+    width: 100px;
+    height: 40px;
+    border: 2px solid green;
+    color: green;
+    background-color: white;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+} */
